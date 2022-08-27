@@ -1,23 +1,23 @@
 # Chapter 1:
-1.	Understand infrastructure as code (IaC) concepts
+**Understand infrastructure as code (IaC) concepts**  
     - [X] Explain what IaC is
     - [X] Describe advantages of IaC patterns
 
 ___
 ## Explain what IaC is
-**Overview**
+**Overview**  
 Infrastructure as Code (IaC) refers to tools that allow for the management of infrastructure using configuration files instead of manual changes via a GUI. The use of IaC gives engineers the ability to manage infrastructure in a consistent and repeatable way. 
 
-**Terraform**
+**Terraform**  
 Terraform is an IaC tool made by HashiCorp that allows for the definition of resources through human-readable code (written in HCL) stored in configuration files. Terraform is cloud agnostic and can be used on many platforms/providers so long as they are supported. It can also be used to version control the infrastructure deployments allowing for sharing and collaboration.
 
-**Providers**
+**Providers**  
 Terraform has plugins called providers that let Terraform code interact with cloud platdorms via APIs. There are over 1000 providers that have compatibility with Terraform including the biggest public cloud platforms (AWS, GCP, Azure). Full list can be found in the [Terraform Registry](https://registry.terraform.io/browse/providers).
 
 ___
-# Part 2: Describe advantages of IaC patterns
+##Describe advantages of IaC patterns
 
-**Overview**
+**Overview**  
 IaC tools have many advantages over traditional deployment methods, primary the following:
   - Remove the need for GUI
     - IaC consists of human-readable code that allows engineers to write what they would like to deploy without the need of navigating through GUIs
