@@ -1,7 +1,7 @@
-# Chapter 1:
-**Understand infrastructure as code (IaC) concepts**  
-    - [X] Explain what IaC is
-    - [X] Describe advantages of IaC patterns
+# Chapter 1
+### Understand infrastructure as code (IaC) concepts
+- [X] Explain what IaC is  
+- [X] Describe advantages of IaC patterns
 
 ___
 ## Explain what IaC is
@@ -15,7 +15,7 @@ Terraform is an IaC tool made by HashiCorp that allows for the definition of res
 Terraform has plugins called providers that let Terraform code interact with cloud platdorms via APIs. There are over 1000 providers that have compatibility with Terraform including the biggest public cloud platforms (AWS, GCP, Azure). Full list can be found in the [Terraform Registry](https://registry.terraform.io/browse/providers).
 
 ___
-##Describe advantages of IaC patterns
+## Describe advantages of IaC patterns
 
 **Overview**  
 IaC tools have many advantages over traditional deployment methods, primary the following:
