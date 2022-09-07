@@ -1,7 +1,7 @@
 # HashiCorp Certified: Terraform Associate (002)
 This repository will serve as a central hub for all notes and materials created on my path to obtain the Terraform Associate Certification. The folders in the repository are divided by Chapters that correspond to sections of the exam guide (below).
 
-![](https://www.datocms-assets.com/2885/1645553469-hcta0-badge.png?fit=max&fm=webp&q=80&w=1500)
+![](https://www.datocms-assets.com/2885/1645553469-hcta0-badge.png?fit=max&fm=webp&q=80&w=200)
 ___
 # Exam Guide
 1.	[Understand infrastructure as code (IaC) concepts](./Chapter%201/)
