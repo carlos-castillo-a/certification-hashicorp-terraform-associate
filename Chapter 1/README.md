@@ -30,4 +30,4 @@ IaC tools have many advantages over traditional deployment methods, primary the 
 ![Example](https://mktg-content-api-hashicorp.vercel.app/api/assets?product=tutorials&version=main&asset=public%2Fimg%2Fterraform%2Fterraform-iac.png)
 
 ---
-[ ▲ Lab 01](./Lab-01/main.tf) | [Next ▶︎ ](/Chapter%203/)
+[ ▲ Lab 01](./Lab-01/main.tf) | [Next ▶︎ ](/Chapter%202/)
