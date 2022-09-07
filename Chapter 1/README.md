@@ -1,8 +1,8 @@
 # Chapter 1
 ### Understand infrastructure as code (IaC) concepts
-✅ Explain what IaC is  
-✅ Describe advantages of IaC patterns  
-✅ [Lab-01](/Chapter%201/Lab-01/)
+✅ **Explain what IaC is**  
+✅ **Describe advantages of IaC patterns**  
+✅ **[Lab-01](/Chapter%201/Lab-01/)**
 
 ---
 
@@ -15,14 +15,14 @@ Terraform is an IaC tool made by HashiCorp that allows for the definition of res
 
 ### **Describe advantages of IaC patterns**
 IaC tools have many advantages over traditional deployment methods, primary the following:
-  - Remove the need for GUI
+  - **Remove the need for GUI**
     - IaC consists of human-readable code that allows engineers to write what they would like to deploy without the need of navigating through GUIs
-  - Enable DevOps tools
+  - **Enable DevOps tools**
     - The use of code allows deployments to be tracked and version controlled giving it more visibility and allowing for simpler collaboration between teams
-  - Declare Infrastructure
+  - **Declare Infrastructure**
     - IaC is typically declarative via code meaning engineers can write the resources they want to be created without needing to worry about the underlying API calls
     - Allows for the code to serve as documentation for what has been deployed
-  - Speed, Cost, Risk
+  - **Speed, Cost, Risk**
     - Because there is no need for clicking during deployments, the chances of human errors are much lower which over all reduces costs
     - IaC can help standardize deployments and give engineers the ability to redeploy version of their resources multiple times instantly
     - IaC can give engineers the chance to easily create and implement security rules throughout all infrastructure 
