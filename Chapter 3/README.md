@@ -7,7 +7,7 @@
 
 ___
 ### **Install and version Terraform providers**
-All Terraform configurations must declare which providers they require so Terraform can install the libraries required to use them. By default, Terrafrom looks for providers in the [Terrafrom Provider Registry](https://registry.terraform.io/browse/providers), but providers can also be sourced locally and referenced in the code.
+All Terraform configurations must declare which provider(s) are required so Terraform can install the libraries needed to use the provider(s). By default, Terrafrom looks for providers in the [Terrafrom Provider Registry](https://registry.terraform.io/browse/providers), but providers can also be sourced locally and referenced in the code.
 
 _Example from [Lab-01](./Lab-01/main.tf):_  
 
