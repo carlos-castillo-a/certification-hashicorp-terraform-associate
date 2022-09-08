@@ -13,10 +13,10 @@ ___
     - [X] Explain the benefits of state
 
 3.	[Understand Terraform basics](./Chapter%203/)
-    - [ ] Install and version Terraform providers
-    - [ ] Describe plugin-based architecture
-    - [ ] Write Terraform configuration using multiple providers
-    - [ ] Describe how Terraform finds and fetches providers
+    - [X] Install and version Terraform providers
+    - [X] Describe plugin-based architecture
+    - [X] Write Terraform configuration using multiple providers
+    - [X] Describe how Terraform finds and fetches providers
 
 4.	[Use Terraform outside of core workflow](./Chapter%204/)
     - [ ] Describe when to use `terraform import` to import existing infrastructure into your Terraform state
