@@ -1,8 +1,8 @@
 # Chapter 1
 ### Understand infrastructure as code (IaC) concepts
-✅ **Explain what IaC is**  
-✅ **Describe advantages of IaC patterns**  
-✅ **[Lab-01](/Chapter%201/Lab-01/)**
+- [X] **Explain what IaC is**  
+- [X] **Describe advantages of IaC patterns**  
+- [X] **[Lab-01](/Chapter%201/Lab-01/)**
 
 ---
 
