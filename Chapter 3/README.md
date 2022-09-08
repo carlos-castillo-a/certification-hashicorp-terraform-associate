@@ -41,7 +41,7 @@ ___
 Terraform fetches the provider after the `terrafrom init` command is issued. The way it finds the necessary files is by checking the configuration for providers and then checking if there are plugins locally. If there are none, it will fetch the provider plugins via the Terraform Provider Registry.  
 After finding the providers, it will download and install the plugins locally and save the configuration in a hidden folder called `.terraform` 
 
-_Here is an excerpt from initializing Terrafrom in the Lab-02 directory showing the process:_  
+_Here is an excerpt from initializing Terrafrom in the [Lab-02](./Lab-02/) directory showing the process:_  
 
 ```
 $ terraform init
