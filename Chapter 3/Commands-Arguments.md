@@ -1,4 +1,4 @@
-# Chapter 3 Commands & Arguments
+# Chapter 3: Commands & Arguments
 ### **Relevant Commands**
 - `terraform init`: Initializes the working directory containing the Terraform configuration files. It is the first command that should be run after writing a new terraform configuration; it also helps set up the backed for storing stage files and follows desired configuration; providers are downloaded when this command is executed
   - `-upgrade`: Flag that will upgrade the providers to the latest version consistent within the version constraints specified in the configuration
@@ -11,16 +11,12 @@
 - `alias`: This can be used to create multiple configurations using the _same_ provider
 
     ```
-    # The default provider configuration; resources that begin with `aws_` will use
-    # it as the default, and it can be referenced as `aws`.
     provider "aws" {
         region = "us-east-1"
     }
 
-    # Additional provider configuration for west coast region; resources can
-    # reference this as `aws.west`.
     provider "aws" {
-        alias  = "west"
+        alias  = "west"                 <------ Alias for same provider in different region
         region = "us-west-2"
     }
     ```
