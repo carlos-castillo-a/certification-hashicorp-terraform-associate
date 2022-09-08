@@ -34,7 +34,7 @@ ___
 ### **Write Terraform configuration using multiple providers**
 Terraform can work with multiple providers using the same configuration files so long as the providers are specified.
 
-_See [Lab-02](./Lab-02/README.md) for more._
+_See [Lab-02](./Lab-02/README.md) for more information._
 
 ___
 ### **Describe how Terraform finds and fetches providers**
