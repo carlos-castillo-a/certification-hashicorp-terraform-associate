@@ -2,7 +2,6 @@
 ### Understand infrastructure as code (IaC) concepts
 - [X] **Explain what IaC is**  
 - [X] **Describe advantages of IaC patterns**  
-- [X] **[Lab-01](/Chapter%201/Lab-01/)**
 
 ---
 
@@ -30,4 +29,4 @@ IaC tools have many advantages over traditional deployment methods, primary the 
 ![Example](https://mktg-content-api-hashicorp.vercel.app/api/assets?product=tutorials&version=main&asset=public%2Fimg%2Fterraform%2Fterraform-iac.png)
 
 ---
-[ ▲ Lab 01](./Lab-01/main.tf) | [Next ▶︎ ](/Chapter%202/)
+[Next ▶︎ ](/Chapter%202/)
