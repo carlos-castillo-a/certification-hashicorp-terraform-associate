@@ -25,9 +25,9 @@ provider "docker" {}
 ```
 ___
 ### **Describe plugin-based architecture**
-Providers are essentially _plugins_ that have releases seperately to Terraform itself, with each provider having different version numbers.
+Providers are essentially _plugins_ that have releases seperate from Terraform itself, with each provider having different version numbers.
 
-Each provider is responsible for creating the necessary files and code needed to interact with a specific platform (i.e. AWS, Azure, Oracle). Providers can also be created manually
+Each provider is responsible for creating the necessary files and code needed to interact with a specific platform (i.e. AWS, Azure, Oracle). Providers can also be created manually and stored/referenced locally by code.
 ___
 ### **Write Terraform configuration using multiple providers**
 Terraform can work with multiple providers using the same configuration files so long as the providers are specified.
