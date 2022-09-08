@@ -1,4 +1,4 @@
-# Chapter 2:
+# Chapter 2
 ### Understand the purpose of Terraform (vs other IaC)  
 - [X] **Explain multi-cloud and provider-agnostic benefits**  
 - [X] **Explain the benefits of state**
