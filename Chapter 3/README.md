@@ -1,8 +1,8 @@
 # Chapter 3
 ### **Understand Terraform basics**
-- [X] **[Lab-01](./Lab-01/main.tf): Install and version Terraform providers**
+- [X] **[Lab-01](./Lab-01/): Install and version Terraform providers**
 - [X] **Describe plugin-based architecture**
-- [x] **[Lab-02](./Lab-02/README.md): Write Terraform configuration using multiple providers**
+- [x] **[Lab-02](./Lab-02/): Write Terraform configuration using multiple providers**
 - [x] **Describe how Terraform finds and fetches providers**
 
 ___
