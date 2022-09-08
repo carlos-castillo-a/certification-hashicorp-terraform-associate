@@ -28,6 +28,8 @@ ___
 Providers are essentially _plugins_ that have releases seperate from Terraform itself, with each provider having different version numbers.
 
 Each provider is responsible for creating the necessary files and code needed to interact with a specific platform (i.e. AWS, Azure, Oracle). Providers can also be created manually and stored/referenced locally by code.
+
+![](https://miro.medium.com/max/700/1*xgbWYOsi43OTLAC0cAK0qg.pngfit=max&fm=webp&q=80&w=600)
 ___
 ### **Write Terraform configuration using multiple providers**
 Terraform can work with multiple providers using the same configuration files so long as the providers are specified.
